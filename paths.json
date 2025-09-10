@@ -1,16 +1,11 @@
 {
   "mappings": [
-    "/content/aem-boilerplate-commerce/:/",
-    "/content/aem-boilerplate-commerce/configuration:/.helix/config.json",
-    "/content/aem-boilerplate-commerce/headers:/.helix/headers.json",
-    "/content/aem-boilerplate-commerce/metadata:/metadata.json",
-    "/content/aem-boilerplate-commerce.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
     "/content/nasm-prod-eds/:/",
     "/content/nasm-prod-eds/configuration:/.helix/config.json",
     "/content/nasm-prod-eds/headers:/.helix/headers.json",
     "/content/nasm-prod-eds/metadata:/metadata.json",
     "/content/nasm-prod-eds/placeholders:/placeholders.json",
-    "/content/nasm.resource/enrichment/enrichment.json:/enrichment/enrichment.json",
+    "/content/nasm-prod-eds.resource/enrichment/enrichment.json:/enrichment/enrichment.json",
     "/content/dam/nasm/documents/:/documents/",
     "/content/nasm/workout-exercise-guidance/exercises:/workout-exercise-guidance/exercises.json",
     "/content/nasm/discountpartners/pro-discounts:/discountpartners/pro-discounts.json",
