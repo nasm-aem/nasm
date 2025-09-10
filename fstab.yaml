@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/nasm-aem/nasm/main
+    url: "https://author-p154556-e1685497.adobeaemcloud.com/bin/franklin.delivery/nasm-aem/nasm/main
     type: "markup"
     suffix: ".html"
 folders:
